@@ -1,5 +1,5 @@
 # 99 bottles of beer on the wall
-num_bottles = 99 
+num_bottles = 99
 while num_bottles > 0 :
     if num_bottles == 1:
            print(f"{num_bottles} bottle of beer on the wall, {num_bottles} bottle of beer.")
